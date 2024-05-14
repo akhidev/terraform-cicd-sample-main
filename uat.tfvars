@@ -1,4 +1,4 @@
-key_name       = "2024"
+key_name       = "win"
 instance_type = "t2.micro"
 aws_region = "eu-west-2"
-name="s3-uat-instance"
+name="uat-instance"
